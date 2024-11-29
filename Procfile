@@ -1,1 +1,1 @@
-web: npx medusa db:migrate && npm run start
+web: npm run start
